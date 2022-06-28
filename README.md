@@ -1,4 +1,4 @@
-# FaceMaskDetection 
+# Human Face Mask Object Recognition using CNNs
 
 ## Implementaion of Deep learning based Face Mask Detection with inference on an embedded NVIDIA Jetson device
 ### Academic Team Project
