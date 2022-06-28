@@ -1,6 +1,6 @@
 # FaceMaskDetection
 
-Deep learning based Face Mask Detection
+Implementaion of Deep learning based Face Mask Detection with inference on an embedded NVIDIA Jetson device 
 
 First we obtain the image from the monocular camera of NVIDIA Jetson Tx2 Board. 
 This image is processed by a Yolo model to identify people in it and get their bounding boxes. 
