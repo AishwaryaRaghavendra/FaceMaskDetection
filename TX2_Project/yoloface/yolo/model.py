@@ -1,9 +1,4 @@
 # *******************************************************************
-#
-# Author : Thanh Nguyen, 2018
-# Email  : sthanhng@gmail.com
-# Github : https://github.com/sthanhng
-#
 # Face detection using the YOLOv3 algorithm
 #
 # Description : model.py
